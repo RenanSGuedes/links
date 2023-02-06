@@ -20,7 +20,7 @@ with col2:
     )
 
 with col3:
-    st.subheader(":cow: :blue[CONTAGEM BHN]")
+    st.subheader(":cow: CONTAGEM BHN")
     st.markdown(
         "[![Foo](https://i.imgur.com/xmHRZ0h.png)](https://contagem.streamlit.app/)"
     )
