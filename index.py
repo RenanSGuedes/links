@@ -1,6 +1,7 @@
 import streamlit as st
 from PIL import Image
 
+
 st.title(":speech_balloon: Welcome!")
 image = Image.open('./quasar.png')
 st.image(image)
