@@ -25,3 +25,8 @@ with col3:
     st.markdown(
         "[![Foo](https://i.imgur.com/xmHRZ0h.png)](https://contagem.streamlit.app/)"
     )
+with col1:
+    st.write(":butterfly: MACRO (ATTO)")
+    st.markdown(
+        "[![Foo](https://i.imgur.com/Vhbh83n.png)](https://macro-atto.streamlit.app/)"
+    )
